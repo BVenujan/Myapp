@@ -1,0 +1,23 @@
+{
+  "name": "lanka-city-shadows-of-the-island",
+  "version": "0.1.0",
+  "description": "An original open-world action-adventure game set in a fictional Sri Lankan city",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "http-server -p 8000 -o",
+    "build": "echo 'Build script placeholder'",
+    "test": "echo 'Test script placeholder'"
+  },
+  "keywords": [
+    "game",
+    "open-world",
+    "adventure",
+    "sri-lanka",
+    "three.js",
+    "javascript"
+  ],
+  "author": "BVenujan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
